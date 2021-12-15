@@ -1,1 +1,1 @@
-Pokemon card store and collectibles website 🐈
+React Boilerplate
